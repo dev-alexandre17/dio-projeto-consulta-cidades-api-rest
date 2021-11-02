@@ -1,4 +1,4 @@
-package com.github.alexandregoncalo.citiesapi;
+package com.github.alexandregoncalo.citiesapi.countries;
 
 import com.github.alexandregoncalo.citiesapi.countries.Country;
 import com.github.alexandregoncalo.citiesapi.countries.repository.CountryRepository;
